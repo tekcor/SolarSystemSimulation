@@ -1,0 +1,32 @@
+<planets>
+  <object id="0">
+    <name>Sun</name>
+    <distance>0</distance>
+    <diameter>696342</diameter>
+  </object>
+  <object id="1">
+    <name>Mercury</name>
+    <distance>57909100</distance>
+    <diameter>2439,7</diameter>
+  </object>
+  <object id="2">
+    <name>Venus</name>
+    <distance>108208000</distance>
+    <diameter>6051,8</diameter>
+  </object>
+  <object id="3">
+    <name>Earth</name>
+    <distance>149598261</distance>
+    <diameter>6371</diameter>
+  </object>
+  <object id="3a">
+    <name>Moon</name>
+    <distance>384399</distance>
+    <diameter>1737,1</diameter>
+  </object>
+  <object id="4">
+    <name>Mars</name>
+    <distance>227939100</distance>
+    <diameter>3386,2</diameter>
+  </object>
+</planets>
